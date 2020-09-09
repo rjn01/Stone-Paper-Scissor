@@ -1,1 +1,1 @@
-# Stone-Paper-Scissor
+# Stone :mountain: Paper :pencil: Scissor :scissors:
